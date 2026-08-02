@@ -1,4 +1,6 @@
-## Hi there 👋
+## **Building the infrastructure that powers distributed systems.**
+
+`Strimzi` · `Apache Kafka` · `Kubernetes`
 
 <!--
 **kyguy/kyguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
