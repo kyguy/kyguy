@@ -1,4 +1,4 @@
-## **Building the infrastructure that powers distributed systems.**
+### **Building the infrastructure that powers distributed systems.**
 
 `Strimzi` · `Apache Kafka` · `Kubernetes`
 
