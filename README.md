@@ -1,4 +1,4 @@
-### **Building the infrastructure that powers distributed systems.**
+### **Building operational tooling for data streaming on Kubernetes.**
 
 `Strimzi` · `Apache Kafka` · `Kubernetes`
 
